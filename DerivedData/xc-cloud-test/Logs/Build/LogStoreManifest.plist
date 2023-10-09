@@ -5,6 +5,49 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>FC439A22-2D31-4751-AF40-42774D3AFFC7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FC439A22-2D31-4751-AF40-42774D3AFFC7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>xc-cloud-test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>xc-cloud-test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews xc-cloud-test</string>
+			<key>timeStartedRecording</key>
+			<real>718536880.159567</real>
+			<key>timeStoppedRecording</key>
+			<real>718536894.90588701</real>
+			<key>title</key>
+			<string>Build for Previews xc-cloud-test</string>
+			<key>uniqueIdentifier</key>
+			<string>FC439A22-2D31-4751-AF40-42774D3AFFC7</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
